@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "prix": 300,
+    "description": "Chaton F Bengal a vendre",
+    "photos": ["./assets/img/produits/chat-leopard.jpeg"],
+    "stock": {
+      "disponible": 200,
+      "date_mise_en_vente": "2024-03-01"
+    }
+  },
+  {
+    "id": "2",
+    "prix": 500,
+    "description": "Perroquet",
+    "photos": ["./assets/img/produits/perroquet-noir.jepg"],
+    "stock": {
+      "disponible": 200,
+      "date_mise_en_vente": "2024-03-01"
+    }
+  },  {
+    "id": "3",
+    "prix": 200,
+    "description": "Hamster",
+    "photos": ["./assets/img/produits/hamster.jpeg"],
+    "stock": {
+      "disponible": 200,
+      "date_mise_en_vente": "2024-03-01"
+    }
+  },  {
+    "id": "4",
+    "prix": 4794,
+    "description": "Chien samoyede",
+    "photos": ["./assets/img/produits/samoyede.jpeg"],
+    "stock": {
+      "disponible": 200,
+      "date_mise_en_vente": "2024-03-01"
+    }
+  }
+]
+   
